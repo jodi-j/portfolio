@@ -19,7 +19,7 @@ const INFO = {
 	},
 
 	about: {
-		title: "Computer Science Student, Intern, and Leader.",
+		title: "Computer Science Student, Intern, and Leader",
 		description:
 			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
 		para1: 
@@ -38,48 +38,30 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Robin - Bird Song Identifier",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"Robin is a cross-platform mobile app that identifies birds in real-time. It also provides a personalized local bird forecast, an educational chatbot, and accessibility features for the visually impaired. In partnership with the Environmental Interpretive Center at UM-Dearborn. This project is in development with a team, and is the capstone project for my Senior Design Seminar.",
+			logo: "../react-native-1.svg",
+			linkText: "View Project",
+			link: "https://github.com/jodi-j/Robin-Song",
+		},
+
+		{
+			title: "CarbonWise",
+			description:
+				"CarbonWise is a personalized carbon footprint calculator for the city of Dearborn. The website tracks a user's carbon footprint and provides sustainability resources based on a fine-tuned ChatGPT 4o model. This project, which was the semester-long team assignment for my Web Technology course, utilizes the MERN stack.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/jodi-j/CarbonWise",
 		},
 
 		{
-			title: "Project 2",
+			title: "MaximMobile",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 3",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"MaximMobile is a website that acts as an accessibility calculator for mobile app developers. The website features an accessibility quiz, which will then produce an accessibility score and generate reommendations for improving accessibility from ChatGPT. This final project for my Software Engineering I course utilized HTML, CSS, JavaScript, and Python.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
 			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 4",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/salmart/MobileAccessibility",
 		},
 	],
 };
