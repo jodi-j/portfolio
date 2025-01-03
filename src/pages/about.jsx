@@ -52,6 +52,10 @@ const About = () => {
 								<div className="subtitle about-subtitle">
 									{INFO.about.para2}
 								</div>
+
+								<div className="subtitle about-subtitle">
+									{INFO.about.para3}
+								</div>
 							</div>
 
 							<div className="about-left-side">
