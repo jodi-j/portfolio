@@ -9,7 +9,7 @@ const INFO = {
 	socials: {
 		github: "https://github.com/jodi-j",
 		linkedin: "https://linkedin.com/in/jodi-joven-076096240",
-		resume: "https://drive.google.com/file/d/1a-iygeNOmtYw9JnmmwCSNoy0r3xJRh1g/view?usp=sharing",
+		resume: "https://drive.google.com/file/d/1JkJB26nCi4-x07_vr4wrtGQ6K0hpafuS/view?usp=sharing",
 	},
 
 	homepage: {
