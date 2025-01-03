@@ -18,9 +18,13 @@ const INFO = {
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "Jodi Joven | Computer Science Student at the University of Michigan-Dearborn",
 		description:
 			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+		para1: 
+			"As a senior Computer Science student at the University of Michigan-Dearborn, I've taken a multitude of courses that have provided me with a solid foundation in the topics of computer science and software engineering. At the university, I was a member of the operations team for Hack Dearborn 3, hosted by the Google Developer Student Club, which saw the participation of 300+ hackers at 42 universities across the country at our hackathon. Currently, I am a member of the operations team that is currently planning the POWER Conference, hosted by the Society of Women Engineers.",
+		para2: 
+			"I have had 3 internships throughout my college career. In fields ranging from automotive, to aerospace, to fin-tech, I have gained experience in the engineering industry. I was a Product Engineering Intern at the Woodbridge Foam Corporation, a Software Engineering Intern at ispace, inc., and am currently a Software Engineering Intern at Rocket Mortgage.",
 	},
 
 	articles: {
